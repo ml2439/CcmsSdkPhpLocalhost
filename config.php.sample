@@ -1,0 +1,13 @@
+<?php
+  $clientKey = 'cf814577-ba7f-4f17-b390-dee8486d7eb9'; 
+  $clientSecret = 'HcvABVJhZGxC86yt1mcyoRtOjgBu4HmdDsL1DMcvEKJy1ZeOeaquUJp0UsVDjSWKo78rboTsDehAFYQ6ep9Q/OY3ASLcLKQADQl0wo9DY+Y='; 
+  $username = 'b7446dcb-09ef-4478-8f07-9914adc17c98'; 
+  $password = 'qTuP0pH1gDKIQ9dyWEGiGVk38nBnH7bEiCarG8Y/P+w3TWnCziywERY1QcEGsmZXHhE04EVVhp31JqEv3yrR6HQlc/ECLcl06xsvJ5UYvW4=';
+  $baseURL = 'https://api.cloudcms.com';
+  $application = '5a669c616113f8499572';
+
+  $repositoryId = 'f8996514f5f71c5d7bbf'; 
+  $branchId = 'f2a5ffcd043a96ff8a05'; 
+
+  $nodeId = 'd7808258e570ac26bc41';
+?>
